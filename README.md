@@ -1,7 +1,10 @@
 # flask_4_databases_mysql_vm
 504 homework 
 
-#Creating Virtual Machine in Azure 
+# ERRORS:
+It had taken me a long time and multiple tries  to connect my azure vm to the mysqlworkbench. I had had the same issue when I was following along during class, and as much as I tried it did not connect. I was sitting there for maybe 30-40 minutes redoing everything, creating new users, trying to restart, double checking each step. Then I realized I had put the wrong password into workbench the whole time. I was putting in the wrong password, and all my steps prior had been correct. This was not only incredibly frustrating but also a silly mistake, that I will not repeat. 
+
+# Creating Virtual Machine in Azure 
 - Navigate to virtual machine
 - set Size to standard B1ms
 - image to Ubunto server
@@ -40,8 +43,7 @@ y
 <img width="962" alt="Screen Shot 2023-10-11 at 10 27 43 PM" src="https://github.com/malh718/flask_4_databases_mysql_vm/assets/102617334/d05d30b8-9c53-42d3-93dc-dbdf6e427208">
 
 
-#ERRORS:
-It had taken me a long time and multiple tries  to connect my azure vm to the mysqlworkbench. I had had the same issue when I was following along during class, and as much as I tried it did not connect. I was sitting there for maybe 30-40 minutes redoing everything, creating new users, trying to restart, double checking each step. Then I realized I had put the wrong password into workbench the whole time. I was putting in the wrong password, and all my steps prior had been correct. This was not only incredibly frustrating but also a silly mistake, that I will not repeat. 
+
 
 
 Databases and Tables: 
